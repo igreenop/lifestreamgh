@@ -1,4 +1,4 @@
-{
+[
 	{
     "Author": "NightmareXIV",
     "Name": "Lifestream",
@@ -22,4 +22,4 @@
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/Lifestream/main/Lifestream/images/icon.png"
   }
-}
+]
